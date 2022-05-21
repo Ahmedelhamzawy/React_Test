@@ -1,0 +1,142 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap"); */
+.cartBody {
+  width: 86%;
+  margin: auto;
+}
+.cartTitle {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  margin-bottom: 80px;
+}
+.line {
+  height: 1px;
+  width: 100%;
+  margin-bottom: 24px;
+  margin-top: 24px;
+  background-color: #e5e5e5;
+}
+.swatch {
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+}
+.productContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.attributes {
+  display: flex;
+  margin-bottom: 20px;
+}
+.text {
+  width: 63px;
+  height: 45px;
+  border: 1px solid black;
+  margin-right: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.productId {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 27px;
+}
+.productName {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 27px;
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+.price {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.attribute {
+  font-family: "Roboto Condensed", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  margin-bottom: 7px;
+}
+.product_Img {
+  width: 200px;
+  height: 250px;
+}
+.product_Img_Quantitiy {
+  display: flex;
+  align-items: center;
+}
+.quantity {
+  position: relative;
+  margin-right: 24px;
+  width: 45px;
+  height: 250px;
+}
+.decrease {
+  position: absolute;
+  bottom: 0;
+}
+
+.common{
+  width: 100%;
+  height: 45px;
+  background-color: white;
+  border: 1px solid #1d1f22;
+}
+.count {
+  position: relative;
+  top: 25%;
+  left: 30%;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 160%;
+}
+.textChosen{
+  width: 63px;
+  height: 45px;
+  border: 1px solid black;
+  margin-right: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1D1F22;
+  color: white;
+}
+.swatchChosen {
+  background-color: white;
+border: 1px solid green;
+width: 32px;
+height: 32px;
+padding: 1px;
+text-align: center;
+margin-right: 12px;
+}
+.purchasingDetails{
+  font-family: 'Raleway';
+  font-size: 24px;
+line-height: 28px;
+color: #1D1F22;
+margin-top: 32px;
+}
+.payment{
+  display:flex;
+  margin-bottom: 8px;
+}
+.numbers{
+  font-weight: 700;
+  margin-left: 15px;
+}

@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap");
+
+.bg {
+  height: 80px;
+  margin-bottom: 80px;
+}
+.innerDiv {
+  height: 100%;
+  margin-left: 80px;
+  margin-right: 60px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.Nav_element {
+  color: black;
+  margin: 20px;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 19.2px;
+}
+
+.cartIcon {
+  width: 40px;
+  height: 45px;
+}
+.logo {
+  width: 63%;
+}
+.currencyswitcher {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+  margin-right: 10px;
+  border: none;
+  background-color: white;
+  outline: none;
+}
+.viewbag {
+  background-color: white;
+  border: 1px solid #1d1f22;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 120%;
+  padding: 16px 32px;
+  margin-left: 40px;
+  margin-top: 32px;
+  transition: 0.5s;
+}
+.viewbag:hover {
+  background-color: #1d1f22;
+  color: white;
+}
+.cartCar{
+  border: none;
+  background-color: white;
+}
+.cartCarImg{
+  width: 30px;
+  transition: 0.5s;
+}
+.cartCarImg:hover{
+  width: 40px;
+}
+/* .cartCount{
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 100%;
+  position: relative;
+  right: 20px;
+  bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
