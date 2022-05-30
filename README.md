@@ -6,4 +6,4 @@
 4- open the project folder then write (yarn start) on the cmd.
 
 # Here is a video presentation for the website
-https://drive.google.com/file/d/1UJK0obqi-2vyeplKUOs9PX7X1-U9kzFp/view?usp=sharing  <br/>(this video is shared only with this email(hr@scandiweb.com))
+https://drive.google.com/file/d/1UJK0obqi-2vyeplKUOs9PX7X1-U9kzFp/view?usp=sharing  
